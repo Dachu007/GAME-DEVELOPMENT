@@ -61,7 +61,7 @@ return(0);
 ```
 **Output :**
 
-<img width="630" height="478" alt="Screenshot 2025-09-07 214323" src="https://github.com/user-attachments/assets/181f80aa-0226-487e-b387-e9ba47d2147a" />
+<img width="630" height="478" alt="Screenshot 2025-09-07 214323" src="https://github.com/user-attachments/assets/5d9450ad-5da5-49fb-a07d-c75af5f2309d" />
 
 
 **Result :**
